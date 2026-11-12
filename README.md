@@ -1,6 +1,6 @@
 # Cedar Care Command: GitHub Pages copy
 
-A static copy of the Cedar Care Command Databricks App , for sharing without workspace access. Published from https://github.com/tsiebels/test-app. All data is synthetic POC data.
+A static copy of the Cedar Care Command Databricks App, for sharing without workspace access. Published from https://github.com/tsiebels/test-app. All data is synthetic POC data.
 
 ## How it differs from the Databricks App
 
